@@ -50,7 +50,7 @@ body {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f6ecec;
+  background-color: #d4c7c7;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
@@ -152,40 +152,7 @@ ul :nth-child(5) {
   height: 130vh;
   width: 100%;
   text-align: center;
-  background-image: url(Images/try/cool-backg5.png);
-  justify-content: center;
-  align-items: center;
-  padding-top: 50px;
-}
-
-.Home img {
-  width: 50%;
-  height: auto;
-  margin-right: 50px;
-  border-radius: 15%;
-}
-
-.container {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: auto auto;
-  grid-gap: 20px;
-}
-
-.intr {
-  margin-right: 30px;
-  margin-top: 20px;
-}
-
-.Home {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: auto auto;
-  grid-gap: 20px;
-  height: 130vh;
-  width: 100%;
-  text-align: center;
-  background-image: url(Images/try/cool-backg5.png);
+  background-image: url(../Images/try/cool-backg5.png);
   justify-content: center;
   align-items: center;
   padding-top: 50px;
@@ -221,7 +188,7 @@ ul :nth-child(5) {
   height: auto;
   padding: 20px 0;
   align-items: center;
-  background-image: url(Images/try/cool-backg1.png);
+  background-image: url(../Images/try/cool-backg1.png);
   color: white;
   width: 100%;
 }
@@ -276,7 +243,7 @@ h2 {
   height: auto;
   width: 100%;
   text-align: center;
-  background-image: url(Images/try/cool-backg5.png);
+  background-image: url(../Images/try/cool-backg5.png);
   justify-content: center;
   align-items: center;
 }
@@ -322,7 +289,7 @@ h2 {
   grid-template-columns: 1fr;
   grid-template-rows: auto auto;
   grid-gap: 5px;
-  background-image: url(Images/try/cool-backg1.png);
+  background-image: url(../Images/try/cool-backg1.png);
 }
 
 .det {
@@ -376,7 +343,7 @@ td {
 .contact {
   height: auto;
   width: 100%;
-  background-image: url(Images/try/cool-backg2.png);
+  background-image: url(../Images/try/cool-backg2.png);
   padding-top: 30px;
 }
 
@@ -521,7 +488,7 @@ td {
     margin-top: 80px;
     width: 100%;
     height: 100vh;
-    background-image: url(Images/try/cool-backg5.png);
+    background-image: url(../Images/try/cool-backg5.png);
     background-size: cover;
     background-position: center;
     color: white;
@@ -557,7 +524,7 @@ td {
   .About {
     padding: 80px 0;
     align-items: center;
-    background-image: url(Images/try/cool-backg1.png);
+    background-image: url(../Images/try/cool-backg1.png);
     color: white;
     width: 100%;
     height: 130vh;
@@ -607,7 +574,7 @@ td {
   .Achievements {
     text-align: center;
 
-    background-image: url(Images/try/cool-backg5.png);
+    background-image: url(../Images/try/cool-backg5.png);
     width: 100%;
     height: 130vh;
     justify-content: center;
@@ -655,7 +622,7 @@ td {
     grid-template-rows: 20vh 100vh;
     grid-gap: 5px;
 
-    background-image: url(Images/try/cool-backg1.png);
+    background-image: url(../Images/try/cool-backg1.png);
   }
 
   .det {
@@ -710,7 +677,7 @@ td {
   .contact {
     height: 100vh;
     width: 100%;
-    background-image: url(Images/try/cool-backg2.png);
+    background-image: url(../Images/try/cool-backg2.png);
     padding-top: 50px;
   }
 
@@ -877,7 +844,7 @@ td {
     margin-top: 100px;
     width: 100%;
     height: 130vh;
-    background-image: url(Images/try/cool-backg5.png);
+    background-image: url(../Images/try/cool-backg5.png);
     background-size: cover;
     background-position: center;
     color: white;
@@ -913,7 +880,7 @@ td {
   .About {
     padding: 80px 0;
     align-items: center;
-    background-image: url(Images/try/cool-backg1.png);
+    background-image: url(../Images/try/cool-backg1.png);
     color: white;
     width: 100%;
     height: 130vh;
@@ -963,7 +930,7 @@ td {
   .Achievements {
     text-align: center;
 
-    background-image: url(Images/try/cool-backg5.png);
+    background-image: url(../Images/try/cool-backg5.png);
     width: 100%;
     height: 130vh;
     justify-content: center;
@@ -1011,7 +978,7 @@ td {
     grid-template-rows: 20vh 100vh;
     grid-gap: 5px;
 
-    background-image: url(Images/try/cool-backg1.png);
+    background-image: url(../Images/try/cool-backg1.png);
   }
 
   .det {
@@ -1066,7 +1033,7 @@ td {
   .contact {
     height: 100vh;
     width: 100%;
-    background-image: url(Images/try/cool-backg2.png);
+    background-image: url(../Images/try/cool-backg2.png);
     padding-top: 50px;
   }
 
@@ -1224,7 +1191,7 @@ td {
     margin-top: 80px;
     width: 100%;
     height: auto;
-    background-image: url(Images/try/cool-backg5.png);
+    background-image: url(../Images/try/cool-backg5.png);
     background-size: cover;
     background-position: center;
     color: white;
@@ -1260,7 +1227,7 @@ td {
   .About {
     padding: 80px 0;
     align-items: center;
-    background-image: url(Images/try/cool-backg1.png);
+    background-image: url(../Images/try/cool-backg1.png);
     color: white;
     width: 100%;
     height: 130vh;
@@ -1310,7 +1277,7 @@ td {
   .Achievements {
     text-align: center;
 
-    background-image: url(Images/try/cool-backg5.png);
+    background-image: url(../Images/try/cool-backg5.png);
     width: 100%;
     height: 130vh;
     justify-content: center;
@@ -1358,7 +1325,7 @@ td {
     grid-template-rows: 20vh 100vh;
     grid-gap: 5px;
 
-    background-image: url(Images/try/cool-backg1.png);
+    background-image: url(../Images/try/cool-backg1.png);
   }
 
   .det {
@@ -1413,7 +1380,7 @@ td {
   .contact {
     height: 100vh;
     width: 100%;
-    background-image: url(Images/try/cool-backg2.png);
+    background-image: url(../Images/try/cool-backg2.png);
     padding-top: 50px;
   }
 
