@@ -8,6 +8,7 @@
 body {
   display: grid;
   grid-template-columns: 1fr;
+
   color: rgb(245, 243, 243);
   background-size: cover;
   background-repeat: no-repeat;
@@ -152,7 +153,7 @@ ul :nth-child(5) {
   height: 130vh;
   width: 100%;
   text-align: center;
-  background-image: url(../Images/try/cool-backg5.png);
+  background-color: #333;
   justify-content: center;
   align-items: center;
   padding-top: 50px;
@@ -188,7 +189,7 @@ ul :nth-child(5) {
   height: auto;
   padding: 20px 0;
   align-items: center;
-  background-image: url(../Images/try/cool-backg1.png);
+  background-color: #2e2929;
   color: white;
   width: 100%;
 }
@@ -243,7 +244,7 @@ h2 {
   height: auto;
   width: 100%;
   text-align: center;
-  background-image: url(../Images/try/cool-backg5.png);
+  background-color: #333;
   justify-content: center;
   align-items: center;
 }
@@ -289,7 +290,7 @@ h2 {
   grid-template-columns: 1fr;
   grid-template-rows: auto auto;
   grid-gap: 5px;
-  background-image: url(../Images/try/cool-backg1.png);
+  background-color: #2e2929;
 }
 
 .det {
@@ -343,7 +344,7 @@ td {
 .contact {
   height: auto;
   width: 100%;
-  background-image: url(../Images/try/cool-backg2.png);
+  background-color: #333;
   padding-top: 30px;
 }
 
@@ -488,7 +489,7 @@ td {
     margin-top: 80px;
     width: 100%;
     height: 100vh;
-    background-image: url(../Images/try/cool-backg5.png);
+    background-color: #333;
     background-size: cover;
     background-position: center;
     color: white;
@@ -524,7 +525,7 @@ td {
   .About {
     padding: 80px 0;
     align-items: center;
-    background-image: url(../Images/try/cool-backg1.png);
+    background-color: #2e2929;
     color: white;
     width: 100%;
     height: 130vh;
@@ -573,8 +574,7 @@ td {
 
   .Achievements {
     text-align: center;
-
-    background-image: url(../Images/try/cool-backg5.png);
+    background-color: #333;
     width: 100%;
     height: 130vh;
     justify-content: center;
@@ -621,8 +621,7 @@ td {
     grid-template-columns: 1fr;
     grid-template-rows: 20vh 100vh;
     grid-gap: 5px;
-
-    background-image: url(../Images/try/cool-backg1.png);
+    background-color: #2e2929;
   }
 
   .det {
@@ -677,7 +676,7 @@ td {
   .contact {
     height: 100vh;
     width: 100%;
-    background-image: url(../Images/try/cool-backg2.png);
+    background-color: #333;
     padding-top: 50px;
   }
 
@@ -844,7 +843,7 @@ td {
     margin-top: 100px;
     width: 100%;
     height: 130vh;
-    background-image: url(../Images/try/cool-backg5.png);
+    background-color: #333;
     background-size: cover;
     background-position: center;
     color: white;
@@ -880,7 +879,7 @@ td {
   .About {
     padding: 80px 0;
     align-items: center;
-    background-image: url(../Images/try/cool-backg1.png);
+    background-color: #2e2929;
     color: white;
     width: 100%;
     height: 130vh;
@@ -929,8 +928,7 @@ td {
 
   .Achievements {
     text-align: center;
-
-    background-image: url(../Images/try/cool-backg5.png);
+    background-color: #333;
     width: 100%;
     height: 130vh;
     justify-content: center;
@@ -977,8 +975,7 @@ td {
     grid-template-columns: 1fr;
     grid-template-rows: 20vh 100vh;
     grid-gap: 5px;
-
-    background-image: url(../Images/try/cool-backg1.png);
+    background-color: #2e2929;
   }
 
   .det {
@@ -1033,7 +1030,7 @@ td {
   .contact {
     height: 100vh;
     width: 100%;
-    background-image: url(../Images/try/cool-backg2.png);
+    background-color: #333;
     padding-top: 50px;
   }
 
@@ -1098,7 +1095,7 @@ td {
     grid-template-columns: 1fr;
 
     color: white;
-
+    background-color: #333;
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -1191,7 +1188,6 @@ td {
     margin-top: 80px;
     width: 100%;
     height: auto;
-    background-image: url(../Images/try/cool-backg5.png);
     background-size: cover;
     background-position: center;
     color: white;
@@ -1227,7 +1223,6 @@ td {
   .About {
     padding: 80px 0;
     align-items: center;
-    background-image: url(../Images/try/cool-backg1.png);
     color: white;
     width: 100%;
     height: 130vh;
@@ -1276,8 +1271,6 @@ td {
 
   .Achievements {
     text-align: center;
-
-    background-image: url(../Images/try/cool-backg5.png);
     width: 100%;
     height: 130vh;
     justify-content: center;
@@ -1324,8 +1317,6 @@ td {
     grid-template-columns: 1fr;
     grid-template-rows: 20vh 100vh;
     grid-gap: 5px;
-
-    background-image: url(../Images/try/cool-backg1.png);
   }
 
   .det {
@@ -1380,7 +1371,6 @@ td {
   .contact {
     height: 100vh;
     width: 100%;
-    background-image: url(../Images/try/cool-backg2.png);
     padding-top: 50px;
   }
 
